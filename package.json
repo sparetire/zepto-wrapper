@@ -1,0 +1,23 @@
+{
+  "name": "zepto-wrapper",
+  "version": "1.0.0",
+  "description": "An wrapper of zepto for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparetire/zepto-wrapper.git"
+  },
+  "keywords": [
+    "zepto",
+    "webpack"
+  ],
+  "author": "Sparetire",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sparetire/zepto-wrapper/issues"
+  },
+  "homepage": "https://github.com/sparetire/zepto-wrapper#readme"
+}
